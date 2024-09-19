@@ -1,0 +1,1 @@
+import{S as t}from"./index-BwmCfPFP.js";import"./jsx-runtime-DEdD30eg.js";import"./index-RYns6xqu.js";const r={title:"Example/Switch",component:t,parameters:{layout:"centered"},tags:["autodocs"]},m=[];export{m as __namedExportsOrder,r as default};

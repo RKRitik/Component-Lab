@@ -1,0 +1,1 @@
+import{j as r}from"./jsx-runtime-DEdD30eg.js";const e=({type:t})=>r.jsx("input",{type:"checkbox"});try{e.displayName="Switch",e.__docgenInfo={description:"",displayName:"Switch",props:{type:{defaultValue:null,description:"",name:"type",required:!0,type:{name:"enum",value:[{value:'"primary"'},{value:'"secondary"'}]}}}}}catch{}export{e as S};
